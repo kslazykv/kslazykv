@@ -2,6 +2,9 @@
 
 Welcome to my GitHub profile.
 
+
+You can learn more about me by visiting my <a href='https://kslazykv.github.io/portfolio/' style='font-size: 20px'>Portfolio</a>.
+
 <hr>
 
 <div align="center">
@@ -16,7 +19,7 @@ Welcome to my GitHub profile.
   
 #### Contact:
 
-Feel free to contact me: <a href="mailto:kslazykv@gmail.com">Gmail</a>, [LinkedIn](https://www.linkedin.com/in/karolina-slazyk/).
+Feel free to contact me with anything: <a href="mailto:kslazykv@gmail.com">Gmail</a>, [LinkedIn](https://www.linkedin.com/in/karolina-slazyk/).
 
 
 <!--
